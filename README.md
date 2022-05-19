@@ -1,48 +1,16 @@
-# Quasar App (quasar-blog)
-
-A Quasar Framework app
-
-## Install the dependencies
-```bash
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-### Lint the files
-```bash
-npm run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+# Quasar Blog
+### Primeiro projeto feito em Vue.js com Quasar, com intuito de entender como funciona, utilizando uma FakeApi e Axios para seu consumo.
 
 
-# API
+## O projeto
+### Consiste em um Blog, aonde é possível realizar o CRUD tanto de postagens quanto de autores.
 
-#### Install the dependencies
+## Visualização do projeto
+### Os posts e autores tem aquela famosa zuerinha com meus amigos rsrs
+### Desktop
+![image](https://user-images.githubusercontent.com/79236683/169301241-9f9a92a6-b3da-4a2c-a8f7-f598550ff393.png)
 
-inside `./api`
-```bash
-npm install
-```
+### Mobile
+![image](https://user-images.githubusercontent.com/79236683/169301335-ec1cfc49-72ac-4433-93a3-461a09d41f14.png)
 
-```bash
-npm run seed
-```
-
-```bash
-npm run server
-```
-
-server is running at port: `5051`.
-
-
+### Link para acesso: https://quasar-blog-chi.vercel.app/
