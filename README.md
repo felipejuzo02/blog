@@ -12,5 +12,3 @@
 
 ### Mobile
 ![image](https://user-images.githubusercontent.com/79236683/169301335-ec1cfc49-72ac-4433-93a3-461a09d41f14.png)
-
-### Link para acesso: https://quasar-blog-chi.vercel.app/
